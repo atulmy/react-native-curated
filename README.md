@@ -14,8 +14,9 @@ Collection of packages, tutorials and more for React Native.
 - Icons - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 - Open a web address or call, email, text - [react-native-communications](https://github.com/anarchicknight/react-native-communications)
 - Image pan and zoom - [react-native-image-zoom-viewer](https://github.com/ascoders/react-native-image-viewer)
+- Animation - [react-native-animatable](https://github.com/oblador/react-native-animatable)
 
-#### Camera/Image
+#### Image/Video/Camera
 - Picker (Camera / Gallery) - [react-native-image-picker](https://github.com/react-community/react-native-image-picker)
   - image
   - video
@@ -41,8 +42,9 @@ Collection of packages, tutorials and more for React Native.
 - Splashscreen generator - [apetools](https://apetools.webprofusion.com/app/#/tools/imagegorilla)
 
 ## Tutorials
-- From react-native init to app stores real quick - [elao](https://blog.elao.com/en/dev/from-react-native-init-to-app-stores-real-quick/)
+- From react-native init to app stores real quick (End to end) - [elao](https://blog.elao.com/en/dev/from-react-native-init-to-app-stores-real-quick/)
 - Geo locations - [hackernoon](https://hackernoon.com/react-native-basics-geolocation-adf3c0d10112)
+- Change splash screen (Android) - [jlelse](https://android.jlelse.eu/change-splash-screen-in-react-native-android-app-d3f99ac1ebd1)
 
 ## Authors
 #### This list has been curated by following contributors
