@@ -31,6 +31,9 @@ Collection of packages, tutorials and more for React Native.
 - Get the user preferred languages - [react-native-languages](https://github.com/react-community/react-native-languages)
 - Translate texts - [i18n-js](https://github.com/fnando/i18n-js)
 
+#### Maps
+- Google Places (Autocomplete, Place Picker, API Services) - [react-native-google-places](https://github.com/tolu360/react-native-google-places)
+
 #### Misc.
 - Router - [react-navigation](https://github.com/react-navigation/react-navigation)
 - Push Notifications - [react-native-push-notification](https://github.com/zo0r/react-native-push-notification)
