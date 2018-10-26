@@ -37,6 +37,7 @@ Collection of packages, tutorials and more for React Native.
 #### Misc.
 - Router - [react-navigation](https://github.com/react-navigation/react-navigation)
 - Push Notifications - [react-native-push-notification](https://github.com/zo0r/react-native-push-notification)
+- Share (Social share, sending simple data to other apps) - [react-native-share](https://github.com/react-native-community/react-native-share)
 - PDF - [react-native-pdf](https://github.com/wonday/react-native-pdf)
 - Config (.env) - [react-native-config](https://github.com/luggit/react-native-config)
 
