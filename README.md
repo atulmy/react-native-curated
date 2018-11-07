@@ -32,7 +32,7 @@ Collection of packages, tutorials and more for React Native.
 - Translate texts - [i18n-js](https://github.com/fnando/i18n-js)
 
 #### Maps
-- React Native Mapview component for iOS + Android - [react-native-google-places](https://github.com/react-community/react-native-maps)
+- React Native Mapview component for iOS + Android - [react-native-maps](https://github.com/react-community/react-native-maps)
 - Google Places (Autocomplete, Place Picker, API Services) - [react-native-google-places](https://github.com/tolu360/react-native-google-places)
 
 #### Misc.
