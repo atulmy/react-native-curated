@@ -51,6 +51,9 @@ Collection of packages, tutorials and more for React Native.
 - Geo locations - [hackernoon](https://hackernoon.com/react-native-basics-geolocation-adf3c0d10112)
 - Change splash screen (Android) - [jlelse](https://android.jlelse.eu/change-splash-screen-in-react-native-android-app-d3f99ac1ebd1)
 
+## More
+- Stay up-to-date with the release activities - [react-native-releases](https://github.com/react-native-community/react-native-releases)
+
 ## Authors
 #### This list has been curated by following contributors
 - Atul Yadav - [GitHub](https://github.com/atulmy) · [Twitter](https://twitter.com/atulmy)
