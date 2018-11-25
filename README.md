@@ -8,6 +8,7 @@ Collection of packages, tutorials and more for React Native.
 
 #### UI
 - Linear Gradient - [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient)
+- Gradient with CSS gradient syntax: [react-native-css-gradient](https://github.com/catalinmiron/react-native-css-gradient)
 - Datetime-picker - [react-native-modal-datetime-picker](https://github.com/mmazzarolo/react-native-modal-datetime-picker)
 - Cross-platform Tab View - react-native-tab-view [react-native-tab-view](https://github.com/react-native-community/react-native-tab-view)
 - Handle keyboard appearance with TextInput - [react-native-keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view)
