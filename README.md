@@ -1,5 +1,5 @@
 # React Native Curated
-Collection of packages, tutorials and more for React Native.
+Collection of packages, tutorials and more for [React Native](https://facebook.github.io/react-native/).
 
 ## Libraries
 #### Social Connect
