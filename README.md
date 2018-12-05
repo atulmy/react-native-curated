@@ -47,6 +47,17 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 - Icon generator - [makeappicon](https://makeappicon.com/)
 - Splashscreen generator - [apetools](https://apetools.webprofusion.com/app/#/tools/imagegorilla)
 
+#### Stores
+- Apple
+  - [Developer account](https://developer.apple.com/)
+  - [Publish](https://appstoreconnect.apple.com/)
+  - [Store](https://itunes.apple.com/us/genre/ios/id36?mt=8)
+  
+- Google
+  - [Developer account](https://developer.android.com/distribute/console/)
+  - [Publsh](https://play.google.com/apps/publish/)
+  - [Store](https://play.google.com/store/apps)
+
 ## Tutorials
 - From react-native init to app stores real quick (End to end) - [elao](https://blog.elao.com/en/dev/from-react-native-init-to-app-stores-real-quick/)
 - Geo locations - [hackernoon](https://hackernoon.com/react-native-basics-geolocation-adf3c0d10112)
