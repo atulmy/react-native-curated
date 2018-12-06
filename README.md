@@ -55,7 +55,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
   
 - Google
   - [Developer account](https://developer.android.com/distribute/console/)
-  - [Publsh](https://play.google.com/apps/publish/)
+  - [Publish](https://play.google.com/apps/publish/)
   - [Store](https://play.google.com/store/apps)
 
 ## Tutorials
