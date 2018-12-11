@@ -46,6 +46,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 #### Tools
 - Icon generator - [makeappicon](https://makeappicon.com/)
 - Splashscreen generator - [apetools](https://apetools.webprofusion.com/app/#/tools/imagegorilla)
+- App Icon / Splashscreen for iOS - [appicon.build](https://www.appicon.build/)
 
 #### Stores
 - Apple
