@@ -28,7 +28,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
   - barcode scanning
   - text recognition
 
-### Media
+#### Media
 - Video - [react-native-video](https://github.com/react-native-community/react-native-video)
 
 #### I18n
