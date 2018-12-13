@@ -9,13 +9,16 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 #### UI
 - Linear Gradient - [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient)
 - Gradient with CSS gradient syntax: [react-native-css-gradient](https://github.com/catalinmiron/react-native-css-gradient)
-- Datetime-picker - [react-native-modal-datetime-picker](https://github.com/mmazzarolo/react-native-modal-datetime-picker)
 - Cross-platform Tab View - react-native-tab-view [react-native-tab-view](https://github.com/react-native-community/react-native-tab-view)
 - Handle keyboard appearance with TextInput - [react-native-keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view)
 - Icons - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 - Open a web address or call, email, text - [react-native-communications](https://github.com/anarchicknight/react-native-communications)
 - Image pan and zoom - [react-native-image-zoom-viewer](https://github.com/ascoders/react-native-image-viewer)
 - Animation - [react-native-animatable](https://github.com/oblador/react-native-animatable)
+
+#### Date
+- Datetime-picker - [react-native-modal-datetime-picker](https://github.com/mmazzarolo/react-native-modal-datetime-picker)
+- Calendar Components [react-native-calendars](https://github.com/wix/react-native-calendars)
 
 #### Image/Video/Camera
 - Picker (Camera / Gallery) - [react-native-image-picker](https://github.com/react-community/react-native-image-picker)
