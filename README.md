@@ -13,7 +13,6 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 - Handle keyboard appearance with TextInput - [react-native-keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view)
 - Icons - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 - Open a web address or call, email, text - [react-native-communications](https://github.com/anarchicknight/react-native-communications)
-- Image pan and zoom - [react-native-image-zoom-viewer](https://github.com/ascoders/react-native-image-viewer)
 - Animation - [react-native-animatable](https://github.com/oblador/react-native-animatable)
 
 #### Date
@@ -30,6 +29,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
   - face detection
   - barcode scanning
   - text recognition
+- Image pan and zoom - [react-native-image-zoom-viewer](https://github.com/ascoders/react-native-image-viewer)
 
 #### Media
 - Video - [react-native-video](https://github.com/react-native-community/react-native-video)
