@@ -30,6 +30,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
   - barcode scanning
   - text recognition
 - Image pan and zoom - [react-native-image-zoom-viewer](https://github.com/ascoders/react-native-image-viewer)
+- SVG [react-native-svg](https://github.com/react-native-community/react-native-svg)
 
 #### Media
 - Video - [react-native-video](https://github.com/react-native-community/react-native-video)
