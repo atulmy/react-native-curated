@@ -14,6 +14,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 - Icons - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 - Open a web address or call, email, text - [react-native-communications](https://github.com/anarchicknight/react-native-communications)
 - Animation - [react-native-animatable](https://github.com/oblador/react-native-animatable)
+- Swiper (Fullscreen + fully customizable) - [react-native-swiper](https://github.com/leecade/react-native-swiper)
 
 #### Date
 - Datetime-picker - [react-native-modal-datetime-picker](https://github.com/mmazzarolo/react-native-modal-datetime-picker)
