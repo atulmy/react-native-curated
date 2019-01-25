@@ -1,6 +1,10 @@
 # React Native Curated
 Collection of packages, tutorials and more for [React Native](https://facebook.github.io/react-native/).
 
+## News and updates
+### Releases
+- React Native [v0.58](https://github.com/facebook/react-native/releases/tag/v0.58.0) is now available [25 January, 2019]
+
 ## Libraries
 #### Social Connect
 - Google - [react-native-google-signin](https://github.com/react-native-community/react-native-google-signin)
