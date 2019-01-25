@@ -36,6 +36,11 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 #### Media
 - Video - [react-native-video](https://github.com/react-native-community/react-native-video)
 
+### Push Notifications
+- Push Notifications - [react-native-push-notification](https://github.com/zo0r/react-native-push-notification)
+- Node GCM (Google) integration - [node-gcm](https://github.com/ToothlessGear/node-gcm)
+- Node APN (Apple) integration - [node-apn](https://github.com/node-apn/node-apn)
+
 #### I18n
 - Get the user preferred languages - [react-native-languages](https://github.com/react-community/react-native-languages)
 - Translate texts - [i18n-js](https://github.com/fnando/i18n-js)
@@ -46,7 +51,6 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 
 #### Misc.
 - Router - [react-navigation](https://github.com/react-navigation/react-navigation)
-- Push Notifications - [react-native-push-notification](https://github.com/zo0r/react-native-push-notification)
 - Share (Social share, sending simple data to other apps) - [react-native-share](https://github.com/react-native-community/react-native-share)
 - PDF - [react-native-pdf](https://github.com/wonday/react-native-pdf)
 - Config (.env) - [react-native-config](https://github.com/luggit/react-native-config)
