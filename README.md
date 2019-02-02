@@ -46,7 +46,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 - Node APN (Apple) integration - [node-apn](https://github.com/node-apn/node-apn)
 
 #### I18n
-- Get the user preferred languages - [react-native-languages](https://github.com/react-community/react-native-languages)
+- Get the user preferred languages - [react-native-localize](https://github.com/react-community/react-native-localize)
 - Translate texts - [i18n-js](https://github.com/fnando/i18n-js)
 
 #### Maps
