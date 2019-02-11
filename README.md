@@ -61,10 +61,10 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 - Config (.env) - [react-native-config](https://github.com/luggit/react-native-config)
 
 #### Tools
-- Icon generator - [makeappicon](https://makeappicon.com/)
+- Icon for Android and iOS - [makeappicon](https://makeappicon.com/)
 - Icon for Android (Square + Round) - [romannurik](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html)
-- Splashscreen generator - [apetools](https://apetools.webprofusion.com/app/#/tools/imagegorilla)
-- App Icon / Splashscreen for iOS - [appicon.build](https://www.appicon.build/)
+- Splashscreen for Android - [apetools](https://apetools.webprofusion.com/app/#/tools/imagegorilla)
+- Splashscreen for iOS - [appicon.build](https://www.appicon.build/)
 
 #### Stores
 - Apple
