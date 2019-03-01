@@ -59,6 +59,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 - Share (Social share, sending simple data to other apps) - [react-native-share](https://github.com/react-native-community/react-native-share)
 - PDF - [react-native-pdf](https://github.com/wonday/react-native-pdf)
 - Config (.env) - [react-native-config](https://github.com/luggit/react-native-config)
+- Device Information - [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info)
 
 #### Tools
 - Icon for Android and iOS - [makeappicon](https://makeappicon.com/)
