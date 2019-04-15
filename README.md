@@ -60,6 +60,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 - PDF - [react-native-pdf](https://github.com/wonday/react-native-pdf)
 - Config (.env) - [react-native-config](https://github.com/luggit/react-native-config)
 - Device Information - [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info)
+- An asynchronous, persistent, key-value storage - [react-native-async-storage](https://github.com/react-native-community/react-native-async-storage) (extracted from React Native core)
 
 #### Tools
 - Icon for Android and iOS - [makeappicon](https://makeappicon.com/)
