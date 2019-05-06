@@ -80,7 +80,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
   - [Store](https://play.google.com/store/apps)
 
 ## Tutorials
-- From react-native init to app stores real quick (End to end) - [elao](https://blog.elao.com/en/dev/from-react-native-init-to-app-stores-real-quick/)
+- From react-native init to app stores real quick (end-to-end) - [elao](https://blog.elao.com/en/dev/from-react-native-init-to-app-stores-real-quick/)
 - Geo locations - [hackernoon](https://hackernoon.com/react-native-basics-geolocation-adf3c0d10112)
 - Change splash screen (Android) - [jlelse](https://android.jlelse.eu/change-splash-screen-in-react-native-android-app-d3f99ac1ebd1)
 
