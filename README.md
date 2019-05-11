@@ -65,7 +65,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 #### Tools
 - Icon for Android and iOS - [makeappicon](https://makeappicon.com/)
 - Icon for Android (Square + Round) - [romannurik](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html)
-- Splashscreen for Android - [apetools](https://apetools.webprofusion.com/app/#/tools/imagegorilla)
+- Splashscreen for Android - [apetools](https://apetools.webprofusion.com/#/tools/imagegorilla)
 - Splashscreen for iOS - [appicon.build](https://www.appicon.build/)
 
 #### Stores
