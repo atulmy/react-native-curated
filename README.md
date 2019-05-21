@@ -3,7 +3,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 
 ## News and updates
 ### Releases
-- React Native [v0.59.5](https://github.com/facebook/react-native/releases/tag/v0.59.5) is now available [18 April, 2019]
+- React Native [v0.59.8](https://github.com/facebook/react-native/releases/tag/v0.59.8) is now available [8 May, 2019]
 
 ## Libraries
 #### Social Connect
