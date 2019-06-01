@@ -61,6 +61,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 - Config (.env) - [react-native-config](https://github.com/luggit/react-native-config)
 - Device Information - [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info)
 - An asynchronous, persistent, key-value storage - [react-native-async-storage](https://github.com/react-native-community/react-native-async-storage) (extracted from React Native core)
+- Periodic callbacks in the background for both IOS and Android - [react-native-background-fetch](https://github.com/transistorsoft/react-native-background-fetch)
 
 #### Tools
 - Icon for Android and iOS - [makeappicon](https://makeappicon.com/)
