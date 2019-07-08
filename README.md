@@ -2,14 +2,18 @@
 Collection of packages, tutorials and more for [React Native](https://facebook.github.io/react-native/).
 
 ## News and updates
-### Releases
+### Latest releases
+- React Native [v0.60](https://github.com/facebook/react-native/releases/tag/v0.60.0) is now available [3 July, 2019] &bull; [Blog](https://facebook.github.io/react-native/blog/2019/07/03/version-60) &bull; [Changelog](https://github.com/react-native-community/releases/blob/master/CHANGELOG.md)
+- React Native [v0.59.10](https://github.com/facebook/react-native/releases/tag/v0.59.10) is now available [2 July, 2019]
 - React Native [v0.59.8](https://github.com/facebook/react-native/releases/tag/v0.59.8) is now available [8 May, 2019]
-- Upgrade to latest version uisng: [rn-diff-purge](https://github.com/react-native-community/rn-diff-purge)
+- View upcoming releases [react-native-community/releases](https://github.com/react-native-community/releases/issues)
+- Upgrade to latest version: [rn-diff-purge](https://github.com/react-native-community/rn-diff-purge)
 
 ## Libraries
-#### Social Connect
+#### Social
 - Google - [react-native-google-signin](https://github.com/react-native-community/react-native-google-signin)
 - Facebook - [react-native-fbsdk](https://github.com/facebook/react-native-fbsdk)
+- Contact list [react-native-contacts](https://github.com/rt2zz/react-native-contacts)
 
 #### UI
 - Linear Gradient - [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient)
