@@ -13,6 +13,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 #### Social
 - Google - [react-native-google-signin](https://github.com/react-native-community/react-native-google-signin)
 - Facebook - [react-native-fbsdk](https://github.com/facebook/react-native-fbsdk)
+- Apple - [apple-authentication](https://github.com/react-native-community/apple-authentication)
 - Contact list [react-native-contacts](https://github.com/rt2zz/react-native-contacts)
 
 #### UI
