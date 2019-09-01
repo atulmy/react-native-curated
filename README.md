@@ -10,6 +10,11 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 - Upgrade to latest version: [rn-diff-purge](https://github.com/react-native-community/rn-diff-purge)
 
 ## Libraries
+#### Basic
+- Navigation - [react-navigation](https://github.com/react-navigation/react-navigation)
+- Config (.env) - [react-native-config](https://github.com/luggit/react-native-config)
+- Async Storage - [async-storage](https://github.com/react-native-community/async-storage)
+
 #### Social
 - Google - [react-native-google-signin](https://github.com/react-native-community/react-native-google-signin)
 - Facebook - [react-native-fbsdk](https://github.com/facebook/react-native-fbsdk)
@@ -17,15 +22,15 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 - Contact list [react-native-contacts](https://github.com/rt2zz/react-native-contacts)
 
 #### UI
+- Icons - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+- Animation - [react-native-animatable](https://github.com/oblador/react-native-animatable)
 - Linear Gradient - [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient)
 - Gradient with CSS gradient syntax: [react-native-css-gradient](https://github.com/catalinmiron/react-native-css-gradient)
-- Cross-platform Tab View - react-native-tab-view [react-native-tab-view](https://github.com/react-native-community/react-native-tab-view)
+- Tab View - [react-native-tab-view](https://github.com/react-native-community/react-native-tab-view)
 - Handle keyboard appearance with TextInput - [react-native-keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view)
-- Icons - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
-- Open a web address or call, email, text - [react-native-communications](https://github.com/anarchicknight/react-native-communications)
-- Animation - [react-native-animatable](https://github.com/oblador/react-native-animatable)
 - Swiper (Fullscreen + fully customizable) - [react-native-swiper](https://github.com/leecade/react-native-swiper)
 - Swiper/carousel [react-native-snap-carousel](https://github.com/archriss/react-native-snap-carousel)
+- Open a web address or call, email, text - [react-native-communications](https://github.com/anarchicknight/react-native-communications)
 
 #### Date
 - Datetime-picker - [react-native-modal-datetime-picker](https://github.com/mmazzarolo/react-native-modal-datetime-picker)
