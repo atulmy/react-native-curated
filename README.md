@@ -52,7 +52,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 #### Media
 - Video - [react-native-video](https://github.com/react-native-community/react-native-video)
 
-### Push Notifications
+#### Push Notifications
 - Push Notifications - [react-native-push-notification](https://github.com/zo0r/react-native-push-notification)
 - Node GCM (Google) integration - [node-gcm](https://github.com/ToothlessGear/node-gcm)
 - Node APN (Apple) integration - [node-apn](https://github.com/node-apn/node-apn)
