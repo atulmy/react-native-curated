@@ -31,6 +31,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 - Swiper (Fullscreen + fully customizable) - [react-native-swiper](https://github.com/leecade/react-native-swiper)
 - Swiper/carousel [react-native-snap-carousel](https://github.com/archriss/react-native-snap-carousel)
 - Open a web address or call, email, text - [react-native-communications](https://github.com/anarchicknight/react-native-communications)
+- WebView [react-native-webview](https://github.com/react-native-community/react-native-webview)
 
 #### Date
 - Datetime-picker - [react-native-modal-datetime-picker](https://github.com/mmazzarolo/react-native-modal-datetime-picker)
