@@ -65,4 +65,43 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 
 #### Maps
 - React Native Mapview component for iOS + Android - [react-native-maps](https://github.com/react-community/react-native-maps)
-- Google Places (Autocomplete, Place Picker, API Serv
+- Google Places (Autocomplete, Place Picker, API Services) - [react-native-google-places](https://github.com/tolu360/react-native-google-places)
+
+#### Misc.
+- Router - [react-navigation](https://github.com/react-navigation/react-navigation)
+- Share (Social share, sending simple data to other apps) - [react-native-share](https://github.com/react-native-community/react-native-share)
+- PDF - [react-native-pdf](https://github.com/wonday/react-native-pdf)
+- Config (.env) - [react-native-config](https://github.com/luggit/react-native-config)
+- Device Information - [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info)
+- An asynchronous, persistent, key-value storage - [react-native-async-storage](https://github.com/react-native-community/react-native-async-storage) (extracted from React Native core)
+- Periodic callbacks in the background for both IOS and Android - [react-native-background-fetch](https://github.com/transistorsoft/react-native-background-fetch)
+
+#### Tools
+- Icon for Android and iOS - [makeappicon](https://makeappicon.com/)
+- Icon for Android (Square + Round) - [romannurik](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html)
+- Splashscreen for Android - [apetools](https://apetools.webprofusion.com/#/tools/imagegorilla)
+- Splashscreen for iOS - [appicon.build](https://www.appicon.build/)
+
+#### Stores
+- Apple
+  - [Developer account](https://developer.apple.com/)
+  - [Publish](https://appstoreconnect.apple.com/)
+  - [Store](https://itunes.apple.com/us/genre/ios/id36?mt=8)
+  
+- Google
+  - [Developer account](https://developer.android.com/distribute/console/)
+  - [Publish](https://play.google.com/apps/publish/)
+  - [Store](https://play.google.com/store/apps)
+
+## Tutorials
+- From react-native init to app stores real quick (end-to-end) - [elao](https://blog.elao.com/en/dev/from-react-native-init-to-app-stores-real-quick/)
+- Geo locations - [hackernoon](https://hackernoon.com/react-native-basics-geolocation-adf3c0d10112)
+- Change splash screen (Android) - [jlelse](https://android.jlelse.eu/change-splash-screen-in-react-native-android-app-d3f99ac1ebd1)
+
+## More
+- Stay up-to-date with the release activities - [react-native-releases](https://github.com/react-native-community/react-native-releases)
+
+## Authors
+#### This list has been curated by following contributors
+- Atul Yadav - [GitHub](https://github.com/atulmy) · [Twitter](https://twitter.com/atulmy)
+- [YOUR NAME HERE] - Feel free to contribute by submitting pull requests.
