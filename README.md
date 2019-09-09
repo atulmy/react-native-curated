@@ -20,7 +20,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 - Facebook - [react-native-fbsdk](https://github.com/facebook/react-native-fbsdk)
 - Apple - [apple-authentication](https://github.com/react-native-community/apple-authentication)
 - Contact list [react-native-contacts](https://github.com/rt2zz/react-native-contacts)
-- Share [react-native-share](https://github.com/react-native-community/react-native-share)
+- Share (Social share, sending simple data to other apps) - [react-native-share](https://github.com/react-native-community/react-native-share)
 
 #### UI
 - Icons - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
@@ -69,9 +69,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 
 #### Misc.
 - Router - [react-navigation](https://github.com/react-navigation/react-navigation)
-- Share (Social share, sending simple data to other apps) - [react-native-share](https://github.com/react-native-community/react-native-share)
 - PDF - [react-native-pdf](https://github.com/wonday/react-native-pdf)
-- Config (.env) - [react-native-config](https://github.com/luggit/react-native-config)
 - Device Information - [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info)
 - An asynchronous, persistent, key-value storage - [react-native-async-storage](https://github.com/react-native-community/react-native-async-storage) (extracted from React Native core)
 - Periodic callbacks in the background for both IOS and Android - [react-native-background-fetch](https://github.com/transistorsoft/react-native-background-fetch)
