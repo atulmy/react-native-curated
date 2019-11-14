@@ -78,7 +78,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 - Icon for Android and iOS - [makeappicon](https://makeappicon.com/)
 - Icon for Android (Square + Round) - [romannurik](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html)
 - Splashscreen for Android - [apetools](https://apetools.webprofusion.com/#/tools/imagegorilla)
-- Splashscreen for iOS - [appicon.build](https://www.appicon.build/)
+- Splashscreen for iOS - [appicon.build](https://www.appicon.build/) / [LaunchScreen.xib](https://medium.com/@kelleyannerose/react-native-ios-splash-screen-in-xcode-bd53b84430ec)
 
 #### Stores
 - Apple
@@ -95,6 +95,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 - From react-native init to app stores real quick (end-to-end) - [elao](https://blog.elao.com/en/dev/from-react-native-init-to-app-stores-real-quick/)
 - Geo locations - [hackernoon](https://hackernoon.com/react-native-basics-geolocation-adf3c0d10112)
 - Change splash screen (Android) - [jlelse](https://android.jlelse.eu/change-splash-screen-in-react-native-android-app-d3f99ac1ebd1)
+- Custom fonts - [medium](https://medium.com/@mehran.khan/ultimate-guide-to-use-custom-fonts-in-react-native-77fcdf859cf4)
 
 ## More
 - Stay up-to-date with the release activities - [react-native-releases](https://github.com/react-native-community/react-native-releases)
