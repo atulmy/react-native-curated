@@ -36,7 +36,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 - Picker (Select) [react-native-picker-select](https://github.com/lawnstarter/react-native-picker-select#readme)
 
 #### Date
-- Datetime-picker - [react-native-modal-datetime-picker](https://github.com/mmazzarolo/react-native-modal-datetime-picker)
+- Datetime-picker - [react-native-modal-datetime-picker](https://github.com/react-native-community/react-native-datetimepicker)
 - Calendar Components - [react-native-calendars](https://github.com/wix/react-native-calendars)
 
 #### Image/Video/Camera
