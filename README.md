@@ -39,7 +39,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 - Datetime-picker - [react-native-modal-datetime-picker](https://github.com/react-native-community/react-native-datetimepicker)
 - Calendar Components - [react-native-calendars](https://github.com/wix/react-native-calendars)
 
-#### Image/Video/Camera
+#### Image/Video/Camera/Files
 - Picker (Camera / Gallery) - [react-native-image-picker](https://github.com/react-community/react-native-image-picker)
   - image
   - video
@@ -52,6 +52,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 - Image pan and zoom - [react-native-image-zoom-viewer](https://github.com/ascoders/react-native-image-viewer)
 - SVG [react-native-svg](https://github.com/react-native-community/react-native-svg)
 - Screenshot [react-native-view-shot](https://github.com/gre/react-native-view-shot)
+- File access and data transfer - [rn-fetch-blob](https://github.com/joltup/rn-fetch-blob)
 
 #### Media
 - Video - [react-native-video](https://github.com/react-native-community/react-native-video)
