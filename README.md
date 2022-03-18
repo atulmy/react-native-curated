@@ -3,7 +3,7 @@ Collection of packages, tutorials and more for [React Native](https://facebook.g
 
 ## News and updates
 ### Latest releases
-- React Native [v0.62.2](https://github.com/facebook/react-native/releases/tag/v0.62.2) is now available [9 April, 2020] &bull; [Changelog](https://github.com/react-native-community/releases/blob/master/CHANGELOG.md#v0622)
+- React Native [v0.67.4](https://github.com/facebook/react-native/releases/tag/v0.67.4) is now available [18 March, 2022] &bull; [Changelog](https://github.com/facebook/react-native/blob/main/CHANGELOG.md#v0673)
 - React Native [v0.60](https://github.com/facebook/react-native/releases/tag/v0.60.0) is now available [3 July, 2019] &bull; [Blog](https://facebook.github.io/react-native/blog/2019/07/03/version-60) &bull; [Changelog](https://github.com/react-native-community/releases/blob/master/CHANGELOG.md)
 - View upcoming releases [react-native-community/releases](https://github.com/react-native-community/releases/issues)
 - Upgrade to latest version: [rn-diff-purge](https://github.com/react-native-community/rn-diff-purge)
